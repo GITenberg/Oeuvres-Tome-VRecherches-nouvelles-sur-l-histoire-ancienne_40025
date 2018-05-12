@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Volney
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
 description: Tome 5 des Œuvres de C.-F. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40025#Oeuvres-Tome-VRecherches-nouvelles-sur-l-histoire-ancienne
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2012-07-01'
 gutenberg_type: Text
